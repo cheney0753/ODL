@@ -1,0 +1,6 @@
+broadcast_to
+================================
+
+.. currentmodule:: odl.util.npy_compat
+
+.. autofunction:: broadcast_to
